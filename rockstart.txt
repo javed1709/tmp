@@ -6,4 +6,8 @@ Shammi Kapoor
 
 Aditi Rao Hydari
 
-Kumud Mishra
+<<<<<<< HEAD
+Kumud Mishra dnvvjsjdv
+=======
+Kumud Mishra jbfealjfb
+>>>>>>> 9e9aa95705f9cf5f51723bd89ec793763582152b
